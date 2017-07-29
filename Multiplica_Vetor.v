@@ -37,7 +37,7 @@ module multv(
 
 endmodule
 
-module teSt:
+module test:
 
   reg [9:0] m;
   reg [9:0] p;
